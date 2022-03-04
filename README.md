@@ -9,3 +9,6 @@ I am open for Discord Bot commissions through discord! Get in contact with me th
 
 [![Golden's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgolden15&hide=prs&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgolden15&langs_count=6&layout=compact&theme=github_dark&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+
+### Lifetime Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cgolden15&theme=dark)](https://git.io/streak-stats)
