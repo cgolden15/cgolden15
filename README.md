@@ -1,5 +1,5 @@
 # Hello there!
-  I'm Cameron, Also known by my discord username, Golden!!. I specialize in Discord bots using the Discord.JS library. I am self taught in JavaScript, Python, HTML, CSS, and SCSS while currently taking classes in Java.
+I'm Golden!!. I specialize in Discord bots using the Discord.JS library. I am self taught in JavaScript, Python, HTML, CSS, and SCSS while currently taking classes in Java.
 
 ## Experience:
 I am currently the Lead Developer and CEO for [Exo Development](https://goldendev.tech/exo-development), and CFO & Lead Application Developer for [Robloxian Adventures](https://www.roblox.com/groups/4963098/RA-Robloxian-Adventures#!/about). I have currently made over 10 medium & large scale Discord bots which currently serve over 40k+ users. 
