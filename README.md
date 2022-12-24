@@ -13,5 +13,5 @@ I am open for Discord Bot commissions through discord! Get in contact with me th
 ### Lifetime Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cgolden15&theme=dark&background=0D1117&sideNums=58A6FF&currStreakNum=58A6FF&ring=1F6FEB&currStreakLabel=fefefe&sidelabel=fefefe&fire=58A6FF)](https://git.io/streak-stats)
 
-#### Support me!
+## Support me!
 [Buy my a coffee!](https://www.buymeacoffee.com/goldenn15) 
