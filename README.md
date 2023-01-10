@@ -7,7 +7,7 @@ I am currently the Lead Developer and CEO for [Exo Development](https://goldende
 I am open for Discord Bot commissions through discord! Get in contact with me through [Exo Development](cgolden15.github.io/exo-development) or directly shoot me an email at golden@goldendev.tech!
 
 ## Support me
-<a href="https://www.buymeacoffee.com/goldenn15"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=goldenn15&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://www.buymeacoffee.com/goldenn15"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=goldenn15&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a> [link](https://www.buymeacoffee.com/goldenn15) 
 
 
 ## Stats:
@@ -17,6 +17,3 @@ I am open for Discord Bot commissions through discord! Get in contact with me th
 
 ### Lifetime Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cgolden15&theme=dark&background=0D1117&sideNums=58A6FF&currStreakNum=58A6FF&ring=1F6FEB&currStreakLabel=fefefe&sidelabel=fefefe&fire=58A6FF)](https://git.io/streak-stats)
-
-## Support me!
-[Buy my a coffee!](https://www.buymeacoffee.com/goldenn15) 
