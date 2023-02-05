@@ -2,9 +2,9 @@
 I'm Golden!!. I specialize in Discord bots using the Discord.JS library. I am self taught in JavaScript, Python, HTML, CSS, and SCSS while currently taking classes in Java.
 
 ## Experience:
-I am currently the Lead Developer and CEO for [Exo Development](https://goldendev.tech/exo-development), and CFO & sysadmin for [Robloxian Adventures](https://www.roblox.com/groups/4963098/RA-Robloxian-Adventures#!/about). I have currently made over 10 medium & large scale Discord bots which currently serve over 40k+ users. 
+I am currently the Lead Developer and CEO of [Golden Development](https://goldenn.dev/), and CFO & sysadmin for [Robloxian Adventures](https://www.roblox.com/groups/4963098/RA-Robloxian-Adventures#!/about). I have currently made over 20 medium & large scale Discord bots which currently serve over 40k+ users. 
 ### Commissions & Contact:
-I am open for Discord Bot commissions through discord! Get in contact with me through [Exo Development](cgolden15.github.io/exo-development) or directly shoot me an email at golden@goldendev.tech!
+I am open for Discord Bot commissions through discord! Get in contact with me through [my website](https://goldenn.dev/) or directly shoot me an email at cameron@goldenn.dev!
 
 ## Support me
 <a href="https://www.buymeacoffee.com/goldenn15"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=goldenn15&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a> [link](https://www.buymeacoffee.com/goldenn15) 
