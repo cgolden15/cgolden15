@@ -1,10 +1,5 @@
 # Hello there!
-I'm Golden!!. I specialize in Discord bots using the Discord.JS library. I am self taught in JavaScript, Python, HTML, CSS, and SCSS while currently taking classes in Java.
-
-## Experience:
-I am currently the Lead Developer and CEO of [Golden Development](https://goldenn.dev/), and CFO & sysadmin for [Robloxian Adventures](https://www.roblox.com/groups/4963098/RA-Robloxian-Adventures#!/about). I have currently made over 20 medium & large scale Discord bots which currently serve over 40k+ users. 
-### Commissions & Contact:
-I am open for Discord Bot commissions through discord! Get in contact with me through [my website](https://goldenn.dev/) or directly shoot me an email at cameron@goldenn.dev!
+I'm Golden, and I make stuff in my free time! I am self taught in NodeJS, Java, Python, and more! I most often work with the Discord.js API and the Bukkit API to create both discord integrations, and custom minecraft server plugins. Some of my works can be found here, however many are private. Check out more on my [website](https://goldenn.dev/). 
 
 ## Support me
 <a href="https://www.buymeacoffee.com/goldenn15"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=goldenn15&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a> [link](https://www.buymeacoffee.com/goldenn15) 
