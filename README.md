@@ -1,14 +1,32 @@
-# Hello there!
-I'm Golden, and I make stuff in my free time! I am self taught in NodeJS, Java, Python, and more! I most often work with the Discord.js API and the Bukkit API to create both discord integrations, and custom minecraft server plugins. Some of my works can be found here, however many are private. Check out more on my [website](https://goldenn.dev/). 
+# Hey there!
+I'm Cameron, I'm a passionate self-taught back end developer.
 
-## Support me
-<a href="https://www.buymeacoffee.com/goldenn15"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=goldenn15&button_colour=5F7FFF&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" /></a> [link](https://www.buymeacoffee.com/goldenn15) 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+
+### About Me:
+💻 I am a full time Information Science and Technology Student\
+🧠 I am currently learning about Cloud Architecture, Networking and Machine Learning\
+🤖 In my free time, I enjoy working with small electronics, 3d Printing and more!
+
+
+### Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)&nbsp;
+
+
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Dreamweaver](https://img.shields.io/badge/-Adobe%20Dreamweaver-05122A?style=flat&logo=adobedreamweaver&logoColor=ff5cf9)&nbsp;
+![intellijidea](https://img.shields.io/badge/-intellij%20idea-05122A?style=flat&logo=intellijidea&logocolor=#fe315c)&nbsp;
 
 
 ## Stats:
-
-[![Golden's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgolden15&hide=prs&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgolden15&langs_count=6&layout=compact&theme=github_dark&hide=css,scss&exclude_repo=concrete-strength)](https://github.com/anuraghazra/github-readme-stats)
-
-### Lifetime Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cgolden15&theme=dark&background=0D1117&sideNums=58A6FF&currStreakNum=58A6FF&ring=1F6FEB&currStreakLabel=fefefe&sidelabel=fefefe&fire=58A6FF)](https://git.io/streak-stats)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cgolden15&hide=prs&count_private=true&show_icons=true&theme=github_dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgolden15&langs_count=5&layout=donut&theme=github_dark&hide=css,scss,less&exclude_repo=concrete-strength">
