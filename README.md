@@ -1,5 +1,5 @@
 # Hey there!
-I'm Cameron. I'm a passionate self-taught back end developer.
+I'm Cameron. I'm a passionate back end developer.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
