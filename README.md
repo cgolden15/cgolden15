@@ -28,5 +28,3 @@ I'm Cameron. I'm a passionate back end developer.
 
 ## Stats:
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgolden15&langs_count=5&layout=donut&theme=github_dark&hide=css,scss,less&exclude_repo=concrete-strength">
