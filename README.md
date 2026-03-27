@@ -24,7 +24,3 @@ I'm Cameron. I'm a passionate back end developer.
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Dreamweaver](https://img.shields.io/badge/-Adobe%20Dreamweaver-05122A?style=flat&logo=adobedreamweaver&logoColor=ff5cf9)&nbsp;
 ![intellijidea](https://img.shields.io/badge/-intellij%20idea-05122A?style=flat&logo=intellijidea&logocolor=#fe315c)&nbsp;
-
-
-## Stats:
-<p align="center">
